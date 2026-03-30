@@ -2,6 +2,21 @@
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  ![License](https://img.shields.io/badge/license-MIT-blue)  ![Version](https://img.shields.io/badge/version-1.0.0-orange)
 
+> Go language learning journey — Internship at **AgenticGokit**
+> Learning Track: Go for Agentic AI
+
+---
+
+## About
+
+This repository documents my weekly progress learning the Go programming language
+during my internship at AgenticGokit. The goal is to build a strong Go foundation
+and apply it to agentic AI systems.
+
+**Reference:** [go.dev/doc](https://go.dev/doc) · [go.dev/ref/spec](https://go.dev/ref/spec) · [go.dev/tour](https://go.dev/tour)
+
+---
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -28,10 +43,10 @@ To get started with Go Agentic AI, follow these steps:
 ## Weekly Progress Tracking
 | Week        | Progress                          |
 |-------------|-----------------------------------|
-| Week 1     | Initial setup and documentation    |
-| Week 2     | Implemented feature X              |
-| Week 3     | Completed feature Y                |
-| Week 4     | Finalized documentation and testing |
+| Week 1     | Go environment setup, Tour of Go, modules, concurrency intro | ✅ Done |
+| Week 2     | Go Language Specification — lexical elements, types, constants | ✅ Done |
+| Week 3     | net/http, encoding/json, context, Anthropic API integration | 🔄 In Progress|
+| Week 4     | Agent loop, tool use, multi-agent patterns | 🔜 Upcoming |
 
 ## Learning Principles
 - Continuous Improvement
@@ -39,15 +54,14 @@ To get started with Go Agentic AI, follow these steps:
 - Practical Application
 
 ## Resources
-- [Go Documentation](https://golang.org/doc/)
-- [Gophercises](https://gophercises.com/)
-- [Effective Go](https://golang.org/doc/effective_go.html)
+- [The Go Programming Language Docs](https://go.dev/doc/)
+- [A Tour of Go](https://go.dev/tour/)
+- [Go Language Specification](https://go.dev/ref/spec)
+- [Effective Go](https://go.dev/doc/effective_go)
+- [Go Standard Library](https://pkg.go.dev/std)
+- [Anthropic API Docs](https://docs.anthropic.com)
 
-## Contact Information
-Feel free to reach out:
-- Email: [art3a8213@gmail.com](mailto:art3a8213@gmail.com)
-- Twitter: [@ranjanow](https://twitter.com/ranjanow)
 
 ---
-
+*AgenticGokit Internship · Go for Agentic AI*
 *Last updated: 2026-03-30 21:23:16 (UTC)*
