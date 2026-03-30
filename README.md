@@ -41,12 +41,12 @@ To get started with Go Agentic AI, follow these steps:
 3. Run your application.
 
 ## Weekly Progress Tracking
-| Week        | Progress                          |
-|-------------|-----------------------------------|
-| Week 1     | Go environment setup, Tour of Go, modules, concurrency intro | ✅ Done |
-| Week 2     | Go Language Specification — lexical elements, types, constants | ✅ Done |
-| Week 3     | net/http, encoding/json, context, Anthropic API integration | 🔄 In Progress|
-| Week 4     | Agent loop, tool use, multi-agent patterns | 🔜 Upcoming |
+|   Weeks    |                    Progress                                    | Status          |
+|------------|----------------------------------------------------------------|-----------------|
+| Week 1     | Go environment setup, Tour of Go, modules, concurrency intro   | ✅ Done        |  
+| Week 2     | Go Language Specification — lexical elements, types, constants | ✅ Done        |
+| Week 3     | net/http, encoding/json, context, Anthropic API integration    | 🔄 In Progress |
+| Week 4     | Agent loop, tool use, multi-agent patterns                     | 🔜 Upcoming    |
 
 ## Learning Principles
 - Continuous Improvement
